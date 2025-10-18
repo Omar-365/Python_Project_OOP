@@ -117,3 +117,10 @@ print(f"{teacher1.name}'s fine for 4 days: {teacher1.calculate_fine(4)}")
 
 
 
+#to push update to repoistort without copy Repr url
+
+#git add orgin https://github.com/Omar-365/Python_Project_OOP.git 
+
+
+
+
