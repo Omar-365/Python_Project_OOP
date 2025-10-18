@@ -114,6 +114,11 @@ lib.show_members()
 print(f"{student1.name}'s fine for 4 days: {student1.calculate_fine(4)}")
 print(f"{teacher1.name}'s fine for 4 days: {teacher1.calculate_fine(4)}")
 
+#adding some command for test 
+
+
+
+
 
 
 
